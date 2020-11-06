@@ -1,9 +1,9 @@
 {
-  "name": "dnd5e",
-  "title": "DnD5e - Fifth Edition System",
-  "description": "A system for playing the fifth edition of the worlds most popular roleplaying game in the Foundry Virtual Tabletop environment.",
+  "name": "VsD",
+  "title": "Against the Darkmaster",
+  "description": "A system for playing Against the Darkmaster, a heavy-metal MERP-inspired game of overcoming the odds and defeating an overwhelming evil!",
   "version": 0.98,
-  "author": "Atropos",
+  "author": "Christian Broomfield",
   "scripts": [],
   "esmodules": ["dnd5e.js"],
   "styles": ["dnd5e.css"],
@@ -93,7 +93,7 @@
   "secondaryTokenAttribute": null,
   "minimumCoreVersion": "0.7.5",
   "compatibleCoreVersion": "0.7.5",
-  "url": "https://gitlab.com/foundrynet/dnd5e",
-  "manifest": "https://gitlab.com/foundrynet/dnd5e/raw/master/system.json",
-  "download": "https://gitlab.com/foundrynet/dnd5e/-/archive/release-0.9.8/dnd5e-release-0.9.8.zip"
+  "url": "https://github.com/SoulBeaver/foundry-VsD",
+  "manifest": "https://github.com/SoulBeaver/foundry-VsD/raw/master/system.json",
+  "download": "https://github.com/SoulBeaver/foundry-VsD/-/archive/release-0.9.8/dnd5e-release-0.9.8.zip"
 }
